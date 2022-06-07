@@ -185,7 +185,7 @@ html {
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
-  padding: 20px 30px;
+  padding: 10px 10px;
   background: hsla(0, 0%, 100%, 0.99);
   border-bottom: 1px solid hsla(0, 0%, 0%, 0.05);
   box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.05);
